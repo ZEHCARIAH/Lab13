@@ -1,6 +1,6 @@
 package edu.handong.csee.java.lab13.prob2;
 
-public class Prob2 {	//declare public class prob2
+public class Visualize {	//declare public class prob2
 
 	public static void main(String[] args) {	//declare public static void main method
 		Book book = new Book("simple Book");	//Book has book member and declare Book("simple Book")
