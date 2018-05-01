@@ -7,9 +7,9 @@ public class Visualize {	//declare public class prob1
 	SchoolFriend friend2 = new SchoolFriend();	//SchoolFriend declare friend2 and call by using new
 	ClassFriend friend3 = new ClassFriend();	//ClassFriend declare friend3 and call using by new
 
-	InstanceOf.WhatFriend(friend1);	//InstanceOf call WhatFriend change friend as friend1
-	InstanceOf.WhatFriend(friend2);	//InstanceOf call WhatFriend change friend as friend2
-	InstanceOf.WhatFriend(friend3);	//InstanceOf call WhatFriend change friend as friend3
+	InstanceOf.Friend(friend1);	//InstanceOf call Friend change friend as friend1
+	InstanceOf.Friend(friend2);	//InstanceOf call Friend change friend as friend2
+	InstanceOf.Friend(friend3);	//InstanceOf call Friend change friend as friend3
 	}
 
 }
