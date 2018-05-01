@@ -1,6 +1,6 @@
 package eud.handong.csee.java.lab13.prob1;
 
-public class Prob1 {	//declare public class prob1
+public class Visualize {	//declare public class prob1
 
 	public static void main(String[] args) {	//declare public static void main method
 	Friend friend1 = new Friend();	//Friend declare friend1 and call by using new 
